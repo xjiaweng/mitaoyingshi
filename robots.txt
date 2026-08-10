@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xjiaweng.github.io/mitaoyingshi/sitemap.xml
